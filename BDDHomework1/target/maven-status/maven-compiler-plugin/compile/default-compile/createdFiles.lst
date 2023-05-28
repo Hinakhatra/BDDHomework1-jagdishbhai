@@ -1,0 +1,11 @@
+org\example\EmailAFriendPage.class
+org\example\RegisterPage.class
+org\example\RegisterResultPage.class
+org\example\BasePage.class
+org\example\LoginPage.class
+org\example\EmailAFriendResultPage.class
+org\example\Utils.class
+org\example\HomePage.class
+org\example\ProductPage.class
+org\example\DriverManager.class
+org\example\LoadProp.class
